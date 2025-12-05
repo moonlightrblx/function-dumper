@@ -31,7 +31,7 @@ cl dumper.cpp
 **Run it:**
 
 ```bash
-./dumper target_binary.exe
+./dumper target_binary.exe <exe_or_dll> <output.h>
 ```
 
 ## Notes
