@@ -35,8 +35,9 @@ cl dumper.cpp
 ```
 
 ## Notes
-
-* Works best with binaries you have permission to read.
 * Only functions with proper exports or identifiable sections will show up neatly.
-
-If you want, I can also **make it sound even slicker**, like a dev-tool landing page with a “why it’s cool” section. That usually grabs attention on GitHub. Do you want me to do that version too?
+## COMING SOON:
+- PDB parser so you can get function names as well.
+- More methods of finding functions.
+- Dynamic type dumping.
+- Faster for large binaries.
