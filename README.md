@@ -1,5 +1,4 @@
-
-# Binary Function Dumper
+# Function Dumper
 
 A tiny tool that **dumps all the functions in a binary as `typedef`s**. It works by parsing exports and sections, so you get a neat map of everything you can hook or reference.
 
