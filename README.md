@@ -41,3 +41,5 @@ cl dumper.cpp
 - More methods of finding functions.
 - Dynamic type dumping.
 - Faster for large binaries.
+### Example Dump
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/1634f1bf-bd99-46a2-bb13-eef1e7e2fd6c" />
