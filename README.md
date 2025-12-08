@@ -11,7 +11,9 @@ I wanted a tool to dump function typedefs for easy hooking. this is not great fo
 * Parses both **exports** and **sections**.
 * Generates clean `typedef`s for every function it finds.
 * Compilable with **g++** or **MSVC**.
-
+* Dumps strings.
+* Dumps Metadata
+* Creates IDAC file.
 ## Getting Started
 
 **Compile it:**
